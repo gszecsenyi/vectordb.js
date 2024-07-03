@@ -1,3 +1,5 @@
+The purpose of the fork is to make browser compatible the vector database. 
+
 ## VectorDB.js
 
 <img src="public/logo.png" alt="VectorDB.js — Simple in-memory vector database for Node.js" class="logo" />
